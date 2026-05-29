@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kent and I'm a 4th year BSIT Student, from University of Science and Technology of Southern Philippines</h2>
+<h2 align="left">Hi 👋! My name is Kent a BSIT Student from University of Science and Technology of Southern Philippines</h2>
 
 ###
 
