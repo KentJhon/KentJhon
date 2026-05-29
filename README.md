@@ -7,7 +7,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZydTl0MHF0MHk3bngxbWFoMTRoY3hiY2tydXg0Y2M2NXV3NjVrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VhpkOlZA9UHIqvOW8a/giphy.gif"  />
 
 ###
 
